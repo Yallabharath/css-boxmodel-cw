@@ -1,0 +1,41 @@
+.a,
+.b,
+.c
+{
+    color: aliceblue;
+background-color: black;
+height: 400px;  
+width: 600px;
+display: inline-block;
+padding: 20px;
+margin: 10px;
+border-width:2px;
+border-style: solid;
+border-color: black;
+vertical-align: top;
+
+
+}
+.b
+{
+    color: yellow;
+    background-color: blue;
+
+
+}
+.c
+{
+   background-color:aqua;
+   color: black;
+
+}
+.d
+ {
+   color: aqua;
+   background-color: blueviolet;
+   width: 1986px;
+   margin: 20px;
+   border-color: yellow;
+   border-style: solid;
+
+ }
